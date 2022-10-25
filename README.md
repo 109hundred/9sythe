@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @9sythe
-- 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning web design (front end)
+- 👋 Hi, I’m @abstrct
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning sysADMIN and cybersecurity
 - 📫 How to reach me: iamsythe.contact@gmail.com
