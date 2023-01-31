@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abstrct
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning sysADMIN and cybersecurity
-- 📫 How to reach me: iamsythe.contact@gmail.com
+- 👋 Hi, I’m @109hundred
+- 👀 I’m interested in sysadmin & cybersecurity
+- 🌱 I’m currently learning sysADMIN, programming & cybersecurity
+- 📫 How to reach me: hugoromo9@pm.me
